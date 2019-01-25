@@ -1,0 +1,6 @@
+http://dati.istat.it/Index.aspx?DataSetCode=DCIS_MORTALITA1 consultato il 7 gennaio 2019
+
+generato:
+
+istat_tavole_mortalità_donne_età_fertile_processed.xlsx (aggiunta della riga "totale" che somma le altre)
+istat_tavole_mortalità_donne_età_fertile_not_processed.csv
